@@ -1,7 +1,7 @@
 # YetGen Core Python Eğitim Programı
 YetGen Core eğitim programı kapsamında yaptığım çalışmaları buraya ekliyorum. Eğer hoşunuza giderse yıldız vermeyi unutmayın.
 
-##Eğitim Programı
+## Eğitim Programı
 
 ### 1. Hafta Yapılan Çalışmalar
 
