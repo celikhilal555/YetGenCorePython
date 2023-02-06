@@ -8,3 +8,13 @@ YetGen Core eğitim programı kapsamında yaptığım çalışmaları buraya ekl
 - Github Öğrenimi
 - Python ve Visual Studio Code Kurulumu
 - Python Nedir ?
+
+### 2. Hafta Yapılan Çalışmalar
+
+- Print Fonksiyonu Nedir Ne İşe Yarar ve Parametreleri Nelerdir ?
+- Yorum Satırı
+- Değişkenler ve Tanımlama Kuralları
+- Type Fonksiyonu
+- Sayı Veri Türleri ve Matematiksel İşlemler
+- String, Boolean Veri Türleri
+- Input Fonksiyonu
