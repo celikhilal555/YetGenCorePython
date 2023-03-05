@@ -18,3 +18,10 @@ YetGen Core eğitim programı kapsamında yaptığım çalışmaları buraya ekl
 - Sayı Veri Türleri ve Matematiksel İşlemler
 - String, Boolean Veri Türleri
 - Input Fonksiyonu
+
+### 3. Hafta Yapılan Çalışmalar
+
+- Karşılaştırma Operatörleri
+- Mantıksal Operatörler
+- Karar Yapıları
+- Döngüler
