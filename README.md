@@ -24,4 +24,13 @@ YetGen Core eğitim programı kapsamında yaptığım çalışmaları buraya ekl
 - Karşılaştırma Operatörleri
 - Mantıksal Operatörler
 - Karar Yapıları
-- Döngüler
+- Döngüler 
+
+### 4. Hafta Yapılan Çalışmalar
+
+- Listeler
+    - Liste Metodları ve Liste Toplama
+- Tuple(Demet)
+- Set
+- Dictionary(Sözlük)
+- String Metodları
