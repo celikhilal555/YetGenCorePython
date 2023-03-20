@@ -34,3 +34,12 @@ YetGen Core eğitim programı kapsamında yaptığım çalışmaları buraya ekl
 - Set
 - Dictionary(Sözlük)
 - String Metodları
+
+### 5. Hafta Yapılan Çalışmalar
+
+- List Comprehension
+- Fonksiyon Yapıları 
+- Argüman ve return Deyimi 
+- *args, **kwargs ve passt Deyimi 
+- Global ve Yerel Değişkenler
+- Lambda
