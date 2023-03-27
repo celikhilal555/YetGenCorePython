@@ -43,3 +43,10 @@ YetGen Core eğitim programı kapsamında yaptığım çalışmaları buraya ekl
 - *args, **kwargs ve passt Deyimi 
 - Global ve Yerel Değişkenler
 - Lambda
+
+### 6. Hafta Yapılan Çalışmalar
+
+- Modüller
+- Hata Yönetimi
+- Gömülü Fonksiyonlar
+
