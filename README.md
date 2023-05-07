@@ -50,3 +50,29 @@ YetGen Core eğitim programı kapsamında yaptığım çalışmaları buraya ekl
 - Hata Yönetimi
 - Gömülü Fonksiyonlar
 
+### 7. Hafta Yapılan Çalışmalar
+
+- Tekrar Haftası
+
+### 8. Hafta Yapılan Çalışmalar
+
+- Dosya İşlemleri
+- Nesne Yönelimli Programlama
+
+### 9. Hafta Yapılan Çalışmalar
+ 
+ - Nesne Yönelimli Programlama Method Kullanımı 
+ - Inheritance
+ 
+ ### 10. Hafta Yapılan Çalışmalar
+
+ - Numpy
+ - Temel Numpy Özellikleri
+ - Numpy Detayları
+
+ ### 11. Hafta Yapılan Çalışmalar
+
+ - Pandas ve Pandas Serileri
+ - Pandas Detayları
+ - Pandas ve Matplotlib
+ 
