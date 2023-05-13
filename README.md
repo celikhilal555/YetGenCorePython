@@ -77,4 +77,4 @@ YetGen Core eğitim programı kapsamında yaptığım çalışmaları buraya ekl
  - Pandas ve Matplotlib
 
  ### 12. Hafta Yapılan Çalışmalar
- - Proje Haftası
+ - Proje Haftası 
